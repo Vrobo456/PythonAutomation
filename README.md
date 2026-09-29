@@ -2,4 +2,4 @@
 
 
 | Week               | Topics 
-| [01](./week-01.md) | 
+| [01](./week01.md/) | 
