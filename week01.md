@@ -17,5 +17,5 @@
 <img width="818" height="154" alt="image" src="https://github.com/user-attachments/assets/2c8755f1-3098-493a-9154-fa13beaa9e0c" />
 
 
-I polished my knowledge about strings, but I'll be honest, it took me while to realize which index is which (the whole "Python counts from 0" got me a bit confused and messed up)
-Now I know what regexes are and how they function, but I don't know them well yet
+- I polished my knowledge about strings, but I'll be honest, it took me while to realize which index is which (the whole "Python counts from 0" got me a bit confused and messed up)
+- Now I know what regexes are and how they function, but I don't know them well yet
