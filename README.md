@@ -2,4 +2,4 @@
 
 |Week               | Topics |
 |-------------------|------------|
-|[01](./week01.md/) | Finding text patterns |
+|[01](./week01.md/) | Finding text patterns without regular expressions|
