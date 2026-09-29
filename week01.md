@@ -6,7 +6,8 @@
 
 
 #Finding if there is a phone number in a given string
-<img width="761" height="601" alt="image" src="https://github.com/user-attachments/assets/44e87b94-2aac-40b2-b121-9da4e2c128c2" />
+<img width="638" height="534" alt="image" src="https://github.com/user-attachments/assets/4f20894b-53c8-45d9-a67d-58523a0d940c" />
+
 
 #Finding and printing a phone number from a given text
 <img width="689" height="137" alt="image" src="https://github.com/user-attachments/assets/609036ed-44bb-4c85-a4d8-42ff038c83a9" />
