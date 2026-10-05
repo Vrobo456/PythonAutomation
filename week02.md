@@ -23,4 +23,4 @@
 
  - Syntax for regular expressions is ... interesting
  - You can escape special characters (e.g. + , - , [] , etc.) by putting a backslash in front of it, this prevents Python from taking the character as part of the command or just skipping it completely
- - You can divide your search pattern into groups that you can later cal
+ - You can divide your search pattern into groups that you can later call
