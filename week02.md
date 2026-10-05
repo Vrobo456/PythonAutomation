@@ -10,14 +10,14 @@
 
 
 #Calling multiple groups at once
+
 <img width="696" height="249" alt="image" src="https://github.com/user-attachments/assets/26d869c4-b33f-4a99-bee4-1d339768a5b9" />
 
 
-
 #Error when messing up escaping special characters
+
 <img width="696" height="117" alt="image" src="https://github.com/user-attachments/assets/b268b0f9-f4e8-47ae-b926-ff06df24551d" />
 <img width="782" height="30" alt="image" src="https://github.com/user-attachments/assets/da8e9021-0bd7-402f-9c53-b1f37a194617" />
-
 
 
 #Escaping special characters
