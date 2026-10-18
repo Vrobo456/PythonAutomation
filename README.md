@@ -8,6 +8,6 @@
 |[04](./week04.md/) | Character classes and "."|
 
 # My resources
--Automate the Boring Stuff with Python 
+-[Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 
--Exercism - Python 
+-[Exercism - Python](https://exercism.org) 
