@@ -9,4 +9,5 @@
 
 # My resources
 -Automate the Boring Stuff with Python 
+
 -Exercism - Python 
