@@ -23,5 +23,7 @@
 
 
 -You can make Character classes to match multiple letters or digits, plus you can use ranges inside the class e.g. [a-z]
+
 -If you put "^" in front of the defined digits or letters in a character class, you negate that class. In other words everything that's not in that class is searched for
+
 -The "." character takes everything that matches the characters that follow it and a character that's supposed to be in it's place e.g. ".ke" takes everything that matches "ke", plus a letter in it's place. ".ke" from "cake" would be "ake".
