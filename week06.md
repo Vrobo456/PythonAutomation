@@ -22,11 +22,11 @@
 <img width="606" height="87" alt="image" src="https://github.com/user-attachments/assets/9a68cc53-46b9-4d0c-b054-bd20e3e69dad" />
 <img width="606" height="87" alt="image" src="https://github.com/user-attachments/assets/b225184d-f794-4f4e-b3fe-5ff748b07dd0" />
 
--Use '+' to match one or more qualifies, it functions similarly. However, since it requires at least one instance, it is not optional like the zero or more conditions using '*'.  
--By putting a number in curly brackets right behind a qualifier, you can specify how many times you want that qualifier to be matched.  
- If you put in two numbers separated by a comma, you will get a range of times the qualifier will be matched.  
- The range includes the upper number, so {2,8} includes the qualifier repeating for 8 times.
--By default, Python's regular expressions are "greedy", meaning if the range is {2,8} and it matches 8 times it will display that it matched 8/ the whole sting is matched.  
- Non-greedy or "lazy" regular expressions will only matched the minimum amount of times possible, so {2,8} will match only 2 times.
- You can achieve lazy expressions using '?' right after the range, e.g. (r' ... {3,5}? ... ')  
+- Use '+' to match one or more qualifies, it functions similarly. However, since it requires at least one instance, it is not optional like the zero or more conditions using '*'.  
+- By putting a number in curly brackets right behind a qualifier, you can specify how many times you want that qualifier to be matched.  
+  If you put in two numbers separated by a comma, you will get a range of times the qualifier will be matched.  
+  The range includes the upper number, so {2,8} includes the qualifier repeating for 8 times.
+- By default, Python's regular expressions are "greedy", meaning if the range is {2,8} and it matches 8 times it will display that it matched 8/ the whole sting is matched.  
+  Non-greedy or "lazy" regular expressions will only matched the minimum amount of times possible, so {2,8} will match only 2 times.
+  You can achieve lazy expressions using '?' right after the range, e.g. (r' ... {3,5}? ... ')  
  
