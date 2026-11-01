@@ -7,6 +7,8 @@
 |[03](./week03.md/) | Using pipe and returning all of the matches|
 |[04](./week04.md/) | Character classes and "."|
 |[05](./week05.md/) | Quantifiers and optional patterns|
+|[06](./week06.md/) | Matching one or more and specific number of qualifiers|
+
 # My resources
 -[Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 
