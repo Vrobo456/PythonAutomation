@@ -1,8 +1,8 @@
 #Week 5
 
--What are quantifier
--Matching optional patterns
--Matching 0 or more qualifiers
+-What are quantifier  
+-Matching optional patterns  
+-Matching 0 or more qualifiers  
 
 
 #Optional patterns using '?'  
