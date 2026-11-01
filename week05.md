@@ -19,7 +19,7 @@
 -the syntax for optional patterns is really tricky, because just swapping where the '?' is can change the whole thing upside down    
 -you can make entire groups optional suing '?' right after the group    
 -'*' basically means "0 ore more times" and you can check whole groups for repetition. Because it's "0 ore more" it can accept the qualifier not being there at all    
--regex syntax is really sensitive and one wrong space give you headache for an hour if not more  
+-regex syntax is really sensitive and one wrong space can give you a headache for an hour if not more  
 e.g.  
 <img width="774" height="461" alt="image" src="https://github.com/user-attachments/assets/99a20354-0126-469d-947b-5d70c85033ea" />
 
