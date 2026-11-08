@@ -8,8 +8,12 @@
 |[04](./week04.md/) | Character classes and "."|
 |[05](./week05.md/) | Quantifiers and optional patterns|
 |[06](./week06.md/) | Matching one or more and specific number of qualifiers|
+|[07](./week07.md/) | Matching everything and word boundaries|
 
 # My resources
--[Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+-[Automate the Boring Stuff with Python](https://automatetheboringstuff.com)  
+-[Exercism - Python](https://exercism.org)   
+-Cheat sheet from the book  
+ <img width="798" height="865" alt="image" src="https://github.com/user-attachments/assets/68317504-bf23-4207-a0ab-466e732dc428" />
 
--[Exercism - Python](https://exercism.org) 
+
