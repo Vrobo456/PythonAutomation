@@ -9,6 +9,8 @@
 |[05](./week05.md/) | Quantifiers and optional patterns|
 |[06](./week06.md/) | Matching one or more and specific number of qualifiers|
 |[07](./week07.md/) | Matching everything and word boundaries|
+|[08](./week08.md/) | Case-insensitive and sub() method|
+
 
 # My resources
 -[Automate the Boring Stuff with Python](https://automatetheboringstuff.com)  
