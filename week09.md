@@ -10,5 +10,5 @@
 <img width="674" height="88" alt="image" src="https://github.com/user-attachments/assets/858c783f-98ec-4e8d-be05-a59aed96f24b" />
 
 - Verbose mode is really useful when you have complex regexes and need to add comments and make it look nice and neat. If you also want to spread the regex over many lines, use (''') to enable that option
-- According to the book, using to | to use have multiple second Arguments in re.compile() is a little old-fashioned, but as long as it works I'll use that
+- According to the book, using to | to have multiple second Arguments in re.compile() is a little old-fashioned, but as long as it works I'll use that
   
