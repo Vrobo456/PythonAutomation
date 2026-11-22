@@ -10,6 +10,7 @@
 |[06](./week06.md/) | Matching one or more and specific number of qualifiers|
 |[07](./week07.md/) | Matching everything and word boundaries|
 |[08](./week08.md/) | Case-insensitive and sub() method|
+|[09](./week09.md/) | Verbose mode and multiple 2nd arguments in re.compile()|
 
 
 # My resources
